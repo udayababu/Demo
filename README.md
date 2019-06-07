@@ -1,2 +1,0 @@
-# Demo
-Watch the Demo
